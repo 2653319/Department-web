@@ -1,0 +1,86 @@
+html{
+     background-image: linear-gradient(rgb(1, 253, 241),rgb(3, 160, 250)); 
+    /*background-color: rgb(1, 253, 241);*/
+}
+
+h1{
+    background-image: linear-gradient(rgb(144,144,144),rgb(18,18,18));
+}
+
+table,th ,td{
+    border: solid 1px rgb(216, 10, 10);
+    background-color:rgb(255, 255, 255);
+}
+
+.APP {
+    background-color:rgb(243, 140, 6);
+    border: solid 1px rgb(216, 10, 10);
+}
+
+.Introduction {
+    background-color:rgb(238, 255, 0);
+    border: solid 1px rgb(216, 10, 10);
+}
+
+.TableTennis {
+    background-color:rgb(72, 255, 0);
+    border: solid 1px rgb(216, 10, 10);
+}
+
+.Information {
+    background-color:rgb(0, 255, 136);
+    border: solid 1px rgb(216, 10, 10);
+}
+
+.database {
+    background-color:rgb(0, 89, 255);
+    border: solid 1px rgb(216, 10, 10);
+}
+
+.server {
+    background-color:rgb(76, 0, 255);
+    border: solid 1px rgb(216, 10, 10);
+}
+
+.web {
+    background-color:rgb(195, 0, 255);
+    border: solid 1px rgb(216, 10, 10);
+}
+
+.sga {
+    background-color:rgb(255, 0, 200);
+    border: solid 1px rgb(216, 10, 10);
+}
+
+.ai {
+    background-color:rgb(255, 0, 98);
+    border: solid 1px rgb(216, 10, 10);
+}
+
+.eng {
+    background-color:rgb(136, 255, 0);
+    border: solid 1px rgb(216, 10, 10);
+}
+
+.des {
+    background-color:rgb(255, 136, 0);
+    border: solid 1px rgb(216, 10, 10);
+}
+
+table{
+    border: solid 1px rgb(216, 10, 10);
+    width:400px;
+    text-align: center;
+    margin:0.5em auto 0.5em auto;
+    border-collapse: collapse;
+    text-shadow: 3px 3px 5px rgb(130, 235, 11);
+}
+
+
+ol li{
+    font-size:30px;
+}
+
+ul li{
+    color:aqua
+}
